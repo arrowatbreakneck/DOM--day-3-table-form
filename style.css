@@ -1,0 +1,55 @@
+.divinp {
+    background-color: gray;
+   padding: 100px;
+    
+}
+
+.divbutton{
+    margin : 20px;
+display: flex;
+justify-content: center;
+padding: 20px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: space-between;
+}
+
+.displayform{
+    
+    color: beige;
+    margin:70px ;
+    height: 540px;
+    width:350px;
+    background-color: lightslategrey;
+    border-radius: 10px;
+    justify-content: center;
+};
+
+.inP{
+    margin: 10px 0 10px 0 ;
+padding: 10px;
+ };
+
+ .tab{
+    width: 80%;
+     border-collapse: collapse;
+      margin: 25px 0;
+       font-size: 18px;
+        text-align: left;
+         box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+ };
+
+ .tab th, .tab td {
+     padding: 12px 15px;
+      border: 1px solid white; 
+    };
+
+    h1 { 
+        font-family: 'Arial', sans-serif;
+         color: #333;
+          text-align: center; 
+        }
